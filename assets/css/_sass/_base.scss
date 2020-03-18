@@ -15,6 +15,7 @@ dl, dd, ol, ul, figure {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', serif;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
@@ -50,12 +51,19 @@ body img {
 
 p {
   display: block;
+  color: #3c3838;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
+  font-size: 23px;
   line-height: 1.65;
   font-family: $body-font-family;
+}
+
+p strong {
+  // font-weight: 900;
+  color: black;
 }
 
 /* Lists */
