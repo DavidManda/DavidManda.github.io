@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "My random thoughts"
-description:	       "A place for me to write some things down"
-author:              "David Manda"
+# description:	       "A place for me to write some things down"
+# author:              "David Manda"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
