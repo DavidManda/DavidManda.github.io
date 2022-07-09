@@ -1,28 +1,28 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: "millennial-3"
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-162053016-1'
+google-ID: "UA-162053016-1"
 
 menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/DavidManda98'}
-- {icon: 'facebook', link: 'https://www.facebook.com/manda.david.98'}
-- {icon: 'instagram', link: 'https://www.instagram.com/manda.david.98/'}
+  - { icon: "twitter", link: "https://twitter.com/DavidManda98" }
+  - { icon: "facebook", link: "https://www.facebook.com/manda.david.98" }
+  - { icon: "instagram", link: "https://www.instagram.com/manda.david.98/" }
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: "Mai noi"
+  previous_page: "Mai vechi"
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: "Dacă ți-a placut, trimite și altora!"
 
-related_posts: 'You may also enjoy...'
+related_posts: "S-ar putea să iți placă și..."
 
-post_date_prefix: 'Written on'
+post_date_prefix: "Publicat la"
