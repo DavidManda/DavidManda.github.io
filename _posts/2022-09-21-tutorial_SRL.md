@@ -150,6 +150,7 @@ Toate aceste acte trebuie completate, semnate și încărcate. Pentru fiecare in
 #### Act constitutiv
 
 A se completa după următorul model:
+<a href="/assets/SRL/Modele/Model%20Act%20Constitutiv%20SRL%20AS.%20UNIC.docx" download>Model act constitutiv</a>
 ![file](/assets/SRL/Modele/Model%20Act%20Constitutiv%20SRL%20AS.%20UNIC.docx)
 
 Mențiuni:
