@@ -23,7 +23,7 @@ Pe scurt, recomandarea mea este:
 
 - Creează un cont pentru https://portal.onrc.ro/. Opțional dar folositor: completează detaliile [contului tău](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=modificaProfil) (Nume, CNP, Adresă etc) pentru a completa formularele mai rapid in viitor.
 
-<img src="/assets/SRL/img/img1.png" alt="drawing" height="200"/>
+<img src="/assets/SRL/img/img1.png" alt="drawing" height="300"/>
 
 - Accesează formularul [acesta](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.rdfo) de verificare și rezervare nume, în afara intervalului orar 08:00 - 18:00. Tare ciudat, știu. Nu sunt sigur care e motivul pentru care nu funcționează în acel interval, cred că este o problemă de sincronizare a bazelor de date între ghișeu si online.
 - Introdu numele dorit
@@ -37,7 +37,7 @@ Accesează [Înregistrare în RC și autorizare PJ](https://portal.onrc.ro/ONRCP
 
 Aici se prezintă 2 linkuri, unul cu formularul în sine și unul cu ghidul de completare. Ghidul este folositor dar extrem de stufos și destul de ambiguu, umplut cu formularea "a se completa după caz conform legii". Sugerez totuși să il consultați din când în când, poate fi de folos.
 
-![image](/assets/SRL/img/img3.png)
+<img src="/assets/SRL/img/img3.png" alt="drawing" height="200"/>
 
 - Apasă [Cerere de înregistrare PJ](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?_nfpb=true&_windowLabel=TestWicket03_1&_urlType=render&wlpTestWicket03_1__wuview=%2FONRCPortalWeb%2Fappmanager%2FmyONRC%2Fwicket%2F%3Fwicket%3AbookmarkablePage%3D%3Aro.romsys.onrc.portal.portlets.rc.cereri.CerereInregistrareRCPage).
 - Acceptă "Acord prelucrare date personale".
