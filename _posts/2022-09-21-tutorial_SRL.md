@@ -23,7 +23,7 @@ Pe scurt, recomandarea mea este:
 
 - Creează un cont pentru https://portal.onrc.ro/. Opțional dar folositor: completează detaliile [contului tău](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=modificaProfil) (Nume, CNP, Adresă etc) pentru a completa formularele mai rapid in viitor.
 
-![image](/assets/SRL/img/img1.png)
+<img src="/assets/SRL/img/img1.png" alt="drawing" height="200"/>
 
 - Accesează formularul [acesta](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.rdfo) de verificare și rezervare nume, în afara intervalului orar 08:00 - 18:00. Tare ciudat, știu. Nu sunt sigur care e motivul pentru care nu funcționează în acel interval, cred că este o problemă de sincronizare a bazelor de date între ghișeu si online.
 - Introdu numele dorit
@@ -33,7 +33,7 @@ Pe scurt, recomandarea mea este:
 
 Accesează [Înregistrare în RC și autorizare PJ](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.formulareInregPJ) din meniul din stânga. (RC - Registrul Comerțului, PJ - Persoana Juridică. Nepotrivite astfel de abrevieri pe un site oficial în opinia mea.)
 
-![image](/assets/SRL/img/img2.png)
+<img src="/assets/SRL/img/img2.png" alt="drawing" height="200"/>
 
 Aici se prezintă 2 linkuri, unul cu formularul în sine și unul cu ghidul de completare. Ghidul este folositor dar extrem de stufos și destul de ambiguu, umplut cu formularea "a se completa după caz conform legii". Sugerez totuși să il consultați din când în când, poate fi de folos.
 
