@@ -21,13 +21,13 @@ Aici începi interacțiunea cu portalul ONRC (Oficiul Național al Registrului C
 
 Pe scurt, recomandarea mea este:
 
-1. Creează un cont pentru https://portal.onrc.ro/. Opțional dar folositor: completează detaliile [contului tău](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=modificaProfil) (Nume, CNP, Adresă etc) pentru a completa formularele mai rapid in viitor.
+- Creează un cont pentru https://portal.onrc.ro/. Opțional dar folositor: completează detaliile [contului tău](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=modificaProfil) (Nume, CNP, Adresă etc) pentru a completa formularele mai rapid in viitor.
 
 ![image](/assets/SRL/img/img1.png)
 
-2. Accesează formularul [acesta](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.rdfo) de verificare și rezervare nume, în afara intervalului orar 08:00 - 18:00. Tare ciudat, știu. Nu sunt sigur care e motivul pentru care nu funcționează în acel interval, cred că este o problemă de sincronizare a bazelor de date între ghișeu si online.
-3. Introdu numele dorit
-4. Dacă numele este considerat disponibil de algoritmul online va fi acceptat și vei obține dovada de rezervare nume. Aceasta conține o listă de nume similare. Din păcate, chiar dacă algoritmul îți acceptă numele firmei, persoana care îți va verifica dosarul de deschidere a firmei poate decide că similaritățiile sunt prea...similare, caz în care va trebui să o iei practic de la început. Din acest motiv, asigură-te ca denumirea ta este destul de clar diferită de numele similare pentru a evita acest lucru. În josul paginii [acesteia](https://www.onrc.ro/index.php/ro/inmatriculari/operatiuni-prealabile/verificare-si-rezervare-firma) găsiți criteriile pe care numele trebiue să îl respecte pentru a fi aprobat.
+- Accesează formularul [acesta](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.rdfo) de verificare și rezervare nume, în afara intervalului orar 08:00 - 18:00. Tare ciudat, știu. Nu sunt sigur care e motivul pentru care nu funcționează în acel interval, cred că este o problemă de sincronizare a bazelor de date între ghișeu si online.
+- Introdu numele dorit
+- Dacă numele este considerat disponibil de algoritmul online va fi acceptat și vei obține dovada de rezervare nume. Aceasta conține o listă de nume similare. Din păcate, chiar dacă algoritmul îți acceptă numele firmei, persoana care îți va verifica dosarul de deschidere a firmei poate decide că similaritățiile sunt prea...similare, caz în care va trebui să o iei practic de la început. Din acest motiv, asigură-te ca denumirea ta este destul de clar diferită de numele similare pentru a evita acest lucru. În josul paginii [acesteia](https://www.onrc.ro/index.php/ro/inmatriculari/operatiuni-prealabile/verificare-si-rezervare-firma) găsiți criteriile pe care numele trebiue să îl respecte pentru a fi aprobat.
 
 # 2. Completează cererea de înregistrare
 
