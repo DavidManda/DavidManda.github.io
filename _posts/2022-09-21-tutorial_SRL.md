@@ -150,8 +150,8 @@ Toate aceste acte trebuie completate, semnate și încărcate. Pentru fiecare in
 #### Act constitutiv
 
 A se completa după următorul model:
-<a href="/assets/SRL/Modele/Model%20Act%20Constitutiv%20SRL%20AS.%20UNIC.docx" download>Model act constitutiv</a>
-![file](/assets/SRL/Modele/Model%20Act%20Constitutiv%20SRL%20AS.%20UNIC.docx)
+
+<a href="/assets/SRL/Modele/Model%20Act%20Constitutiv%20SRL%20AS.%20UNIC.docx" download>Model act constitutiv.docx</a>
 
 Mențiuni:
 
@@ -161,7 +161,8 @@ Mențiuni:
 #### Contract de comodat
 
 A se completa după următorul model:
-![file](/assets/SRL/Modele/Model%20Contract%20Comodat.docx)
+
+<a href="/assets/SRL/Modele/Model%20Contract%20Comodat.docx" download>Model Contract Comodat.docx</a>
 
 Mențiuni:
 
@@ -198,7 +199,7 @@ Eu am scanat cu telefonul și a fost OK.
 
 Informații oficiale despre această declarație găsiți [aici](https://www.onrc.ro/index.php/ro/inmatriculari/persoane-juridice/nume-colectiv?id=41). Trebuie completat după modelul oferit la linkul de mai sus, denumit [model orientativ declaratie PJ](https://www.onrc.ro/templates/site/formulare/declaratii/D5_Declaratie-PJ%20Conditii%20Fondator%20Asociat%20administrator.pdf). Acest model este destul de generic și este mai ușor de folosit acesta, specific pentru cazul nostru:
 
-![file](/assets/SRL/Modele/Model%20Declaratie%20indeplinire%20conditii%20legale%20de%20a%20fi%20administrator%20si%20asociat%20unic.docx)
+<a href="/assets/SRL/Modele/Model%20Declaratie%20indeplinire%20conditii%20legale%20de%20a%20fi%20administrator%20si%20asociat%20unic.docx" download>Model Declaratie indeplinire conditii legale de a fi administrator si asociat unic.docx</a>
 
 Tot ce rămâne acum este să semnezi toate aceste documente și să le atașezi cererii tale. Lista de documente arată așa:
 ![image](/assets/SRL/img/img12.png)
