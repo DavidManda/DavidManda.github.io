@@ -23,7 +23,7 @@ Pe scurt, recomandarea mea este:
 
 - Creează un cont pentru https://portal.onrc.ro/. Opțional dar folositor: completează detaliile [contului tău](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=modificaProfil) (Nume, CNP, Adresă etc) pentru a completa formularele mai rapid in viitor.
 
-<img src="/assets/SRL/img/img1.png" alt="drawing" height="300"/>
+<img src="/assets/SRL/img/img1.png" alt="drawing" height="400"/>
 
 - Accesează formularul [acesta](https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.rdfo) de verificare și rezervare nume, în afara intervalului orar 08:00 - 18:00. Tare ciudat, știu. Nu sunt sigur care e motivul pentru care nu funcționează în acel interval, cred că este o problemă de sincronizare a bazelor de date între ghișeu si online.
 - Introdu numele dorit
