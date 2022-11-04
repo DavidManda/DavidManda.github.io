@@ -19,7 +19,7 @@ Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în ace
 
 <figure>
   <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" style="height:50%"/>
-  <figcaption>Ivan Karamazov, intelectualul chinuit</figcaption>
+  <figcaption><i>Ivan Karamazov, intelectualul chinuit</i></figcaption>
 </figure>
 
 Știu totuși că majoritatea oamenilor nu vor citi această carte. Este prea lungă, și chiar dacă este plină de lecții valoroase, acestea nu sunt evidente pe fiecare pagină. Sunt capitole întregi care, frumoase în felul lor, sunt totuși greoaie și uneori plictisitoare. Așa că am decis să creez o listă cu subcapitolele care au fost speciale pentru mine și pe care cred că toată lumea ar trebui să le citească. Includ de asemenea și aici un pasaj ce pe mine m-a șocat prin relevanța lui pentru anii în care trăim, care sper să vă ofere o portiță spre această carte minunată:
@@ -30,7 +30,7 @@ Voi face referință la aceste volume ce pot fi descărcate pentru numele capito
 
 <figure>
   <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" style="height:100%"/>
-  <figcaption>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</figcaption>
+  <figcaption><i>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</i></figcaption>
 </figure>
 
 ## Volumul 1
