@@ -10,7 +10,7 @@ image: karamazov.jpg
 Considerat unul dintre cele mai bune romane ale geniului literar Fyodor Dostoevsky, Frații Karamazov reușește prin intermediul unor personaje profund umane și un stil narativ aproape bizar să aducă o ficțiune în tărâmul realității. M-am tot întrebat de-alungul celor 870 de pagini de ce este această carte atât de faimoasă. De ce mă ține aproape de ea, chiar și prin lungile descrieri ce sunt aproape pictisitoare? Cred că am găsit unul dintre răspunsuri.
 
 <figure>
-  <img src="/assets/img/karamazov.jpg" alt="drawing" style="height:50%"/>
+  <img src="/assets/img/karamazov.jpg" alt="drawing"/>
 </figure>
 
 Măestria lui Dostoevsky îți permite să trăiești pentru o vreme viața a cel puțin 3 oameni cât se poate de diferiți. Un om condus absolut de pasiune, care ascută mereu doar de inima sa, indiferent de consecințe. Care trădează din iubire și este gata să moară, doar pentru a-și respecta propriul cod de onoare și a-și păstra iubirea neîntinată. Altul, un raționalist cu o minte strălucită, constrâns de propriul intelect să adopte o viziune nihilistă asupra lumii. Totuși, acesta este chinuit de caracterul și iubirea pentru viață ce îl descriu pe al treilea personaj, fratele său, Alyosha (Aleoşa în traducerea în română). Acest ultim personaj este protagonistul. Este un omagiu adus de către autor pentru fiului său cu același nume, care a murit la vârsta de 3 ani de epilepsie. Dostoevsky îi atribuie acestui personaj sufletul pur și sincer al unui copil, o iubire față de oameni mesianică și o moralitate greu de pus în cuvinte, dar profund simțită. Cu toate aceste calități aproape divine, Alyosha rămâne totuși uman și îți permite să vezi lumea prin ochii lui.
@@ -18,7 +18,7 @@ Măestria lui Dostoevsky îți permite să trăiești pentru o vreme viața a ce
 Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în această operă, autorul abordează cele mai profunde întrebări despre viată, moralitate, societate, iubire, familie și religie. Printre multele întrebări se găsesc și începuturi de răspunsuri, pline de frumusețe și înțelepciune.
 
 <figure>
-  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" style="height:350"/>
+  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" height=350/>
   <br>
   <figcaption style="text-align:center">
   <i><small>Ivan Karamazov, intelectualul chinuit</small></i>
@@ -32,7 +32,7 @@ Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în ace
 Voi face referință la aceste volume ce pot fi descărcate pentru numele capitolelor și paginile unde le puteți găsi: [Volumul 1](https://101books.club/carte/descarca-feodor-mihailovici-dostoievski-fratii-karamazov-vol-1-pdf) și [Volumul 2](https://101books.club/carte/descarca-feodor-mihailovici-dostoievski-fratii-karamazov-vol-2-pdf). Includ și numele în engleză, eu am citit traducerea de Constance Garnett, care mi s-a părut excelentă.
 
 <figure>
-  <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" style="height:300"/>
+  <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" height=300/>
   <br>
   <figcaption style="text-align:center">
     <small><i>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</i></small>
