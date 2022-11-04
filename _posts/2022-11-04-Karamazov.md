@@ -30,7 +30,7 @@ Voi face referință la aceste volume ce pot fi descărcate pentru numele capito
 
 <figure>
   <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" style="height:100%"/>
-  <figcaption><i>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</i></figcaption>
+  <figcaption style="text-align:center"><i>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</i></figcaption>
 </figure>
 
 ## Volumul 1
