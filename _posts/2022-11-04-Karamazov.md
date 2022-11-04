@@ -18,8 +18,9 @@ Măestria lui Dostoevsky îți permite să trăiești pentru o vreme viața a ce
 Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în această operă, autorul abordează cele mai profunde întrebări despre viată, moralitate, societate, iubire, familie și religie. Printre multele întrebări se găsesc și începuturi de răspunsuri, pline de frumusețe și înțelepciune.
 
 <figure>
-  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" style="height:10%"/>
-  <figcaption><i>Ivan Karamazov, intelectualul chinuit</i></figcaption>
+  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" style="height:400"/>
+  <br>
+  <figcaption style="text-align:center"><i><small>Ivan Karamazov, intelectualul chinuit</i></small></figcaption>
 </figure>
 
 Știu totuși că majoritatea oamenilor nu vor citi această carte. Este prea lungă, și chiar dacă este plină de lecții valoroase, acestea nu sunt evidente pe fiecare pagină. Sunt capitole întregi care, frumoase în felul lor, sunt totuși greoaie și uneori plictisitoare. Așa că am decis să creez o listă cu subcapitolele care au fost speciale pentru mine și pe care cred că toată lumea ar trebui să le citească. Includ de asemenea și aici un pasaj ce pe mine m-a șocat prin relevanța lui pentru anii în care trăim, care sper să vă ofere o portiță spre această carte minunată:
@@ -29,8 +30,9 @@ Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în ace
 Voi face referință la aceste volume ce pot fi descărcate pentru numele capitolelor și paginile unde le puteți găsi: [Volumul 1](https://101books.club/carte/descarca-feodor-mihailovici-dostoievski-fratii-karamazov-vol-1-pdf) și [Volumul 2](https://101books.club/carte/descarca-feodor-mihailovici-dostoievski-fratii-karamazov-vol-2-pdf). Includ și numele în engleză, eu am citit traducerea de Constance Garnett, care mi s-a părut excelentă.
 
 <figure>
-  <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" style="height:100%"/>
-  <figcaption style="text-align:center"><i>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</i></figcaption>
+  <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" style="height:300"/>
+  <br>
+  <figcaption style="text-align:center"><small><i>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</i></small></figcaption>
 </figure>
 
 ## Volumul 1
