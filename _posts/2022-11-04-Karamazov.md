@@ -4,14 +4,14 @@ title: "Capitolele din Frații Karamazov pe care toată lumea trebuie să le cit
 author: "David Manda"
 categories: philosophy religion rezumate
 tags: [article]
-image: karamazov.jpeg
+image: karamazov.jpg
 ---
 
 Considerat unul dintre cele mai bune romane ale geniului literar Fyodor Dostoevsky, Frații Karamazov reușește prin intermediul unor personaje profund umane și un stil narativ aproape bizar să aducă o ficțiune în tărâmul realității. M-am tot întrebat de-alungul celor 870 de pagini de ce este această carte atât de faimoasă. De ce mă ține aproape de ea, chiar și prin lungile descrieri ce sunt aproape pictisitoare? Cred că am găsit unul dintre răspunsuri. Măestria lui Dostoevsky îți permite să trăiești pentru o vreme viața a cel puțin 3 oameni cât se poate de diferiți. Un om condus absolut de pasiune, care ascută mereu doar de inima sa, indiferent de consecințe. Care trădează din iubire și este gata să moară, doar pentru a-și respecta propriul cod de onoare și a-și păstra iubirea neîntinată. Altul, un raționalist cu o minte strălucită, constrâns de propriul intelect să adopte o viziune nihilistă asupra lumii. Totuși, acesta este chinuit de caracterul și iubirea pentru viață ce îl descriu pe al treilea personaj, fratele său, Alyosha (Aleoşa în traducerea în română). Acest ultim personaj este protagonistul. Este un omagiu adus de către autor pentru fiului său cu același nume, care a murit la vârsta de 3 ani de epilepsie. Dostoevsky îi atribuie acestui personaj sufletul pur și sincer al unui copil, o iubire față de oameni mesianică și o moralitate greu de pus în cuvinte, dar profund simțită. Cu toate aceste calități aproape divine, Alyosha rămâne totuși uman și îți permite să vezi lumea prin ochii lui.
 
 Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în această operă, autorul abordează cele mai profunde întrebări despre viată, moralitate, societate, iubire, familie și religie. Printre multele întrebări se găsesc și începuturi de răspunsuri, pline de frumusețe și înțelepciune.
 
-![image](/assets/img/Karamazov_inquizitor.jpg)
+![image](/assets/img/Karamazov_inquizitor.jpeg)
 _Ivan îi spune lui Alyosha povestea Marelui Inchizitor_
 
 Știu totuși că majoritatea oamenilor nu vor citi această carte. Este prea lungă, și chiar dacă este plină de lecții valoroase, acestea nu sunt evidente pe fiecare pagină. Sunt capitole întregi care, frumoase în felul lor, sunt totuși greoaie și uneori plictisitoare. Așa că am decis să creez o listă cu subcapitolele care au fost speciale pentru mine și pe care cred că toată lumea ar trebui să le citească. Includ de asemenea și aici un pasaj ce pe mine m-a șocat prin relevanța lui pentru anii în care trăim, care sper să vă ofere o portiță spre această carte minunată:
