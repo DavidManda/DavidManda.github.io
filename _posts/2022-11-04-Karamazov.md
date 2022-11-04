@@ -41,12 +41,12 @@ Voi face referință la aceste volume ce pot fi descărcate pentru numele capito
 
 ## Volumul 1
 
-#### Alyosha si Ivan, despre religie și moralitate
+### Alyosha si Ivan, despre religie și moralitate
 
 - IV – Răzvrătirea (Rebellion) - pag. 219-229
 - V – Marele Inchizitor (The Grand Inquizitor) - pag. 229-248
 
-#### Amintirile pe patul de moarte ale unui călugăr special. Despre iubirea pentru oameni și onestitate.
+### Amintirile pe patul de moarte ale unui călugăr special. Despre iubirea pentru oameni și onestitate.
 
 - **Amintiri din anii petrecerii în lume a stareţului Zosima în primăvara vieţii. Duelul. (Recollections of Father Zossima's youth before he became a monk. The duel) - pag. 276-282**
 - **Oaspetele de taină. (The mysterious visitor) - pag. 282-293**
@@ -54,7 +54,7 @@ Voi face referință la aceste volume ce pot fi descărcate pentru numele capito
 
 ## Volumul 2
 
-#### Despre copilărie și adolescență în toată frumusețea, cât și durerea ei. Importanța unui mentor. O poveste sfâșietoare.
+### Despre copilărie și adolescență în toată frumusețea, cât și durerea ei. Importanța unui mentor. O poveste sfâșietoare.
 
 - Jucika (The lost dog), La căpătiiul lui Iliuşa (By Ilusha's bedside), Un copil precoce (Precocity), Iliuşa (Ilusha) - pag. 188-217
 - **Înmormântarea lui Iliuşecika. Cuvintele rostite lângă piatra din marginea drumului. (Ilusha's funeral. The speech at the stone) - pag. 414-422**
