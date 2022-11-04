@@ -12,7 +12,7 @@ Considerat unul dintre cele mai bune romane ale geniului literar Fyodor Dostoevs
 Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în această operă, autorul abordează cele mai profunde întrebări despre viată, moralitate, societate, iubire, familie și religie. Printre multele întrebări se găsesc și începuturi de răspunsuri, pline de frumusețe și înțelepciune.
 
 ![image](/assets/img/Karamazov_inquizitor.jpeg)
-_Ivan îi spune lui Alyosha povestea Marelui Inchizitor_
+<em alight="center">Ivan îi spune lui Alyosha povestea Marelui Inchizitor</em>
 
 Știu totuși că majoritatea oamenilor nu vor citi această carte. Este prea lungă, și chiar dacă este plină de lecții valoroase, acestea nu sunt evidente pe fiecare pagină. Sunt capitole întregi care, frumoase în felul lor, sunt totuși greoaie și uneori plictisitoare. Așa că am decis să creez o listă cu subcapitolele care au fost speciale pentru mine și pe care cred că toată lumea ar trebui să le citească. Includ de asemenea și aici un pasaj ce pe mine m-a șocat prin relevanța lui pentru anii în care trăim, care sper să vă ofere o portiță spre această carte minunată:
 
