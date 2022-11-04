@@ -18,7 +18,7 @@ Măestria lui Dostoevsky îți permite să trăiești pentru o vreme viața a ce
 Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în această operă, autorul abordează cele mai profunde întrebări despre viată, moralitate, societate, iubire, familie și religie. Printre multele întrebări se găsesc și începuturi de răspunsuri, pline de frumusețe și înțelepciune.
 
 <figure>
-  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" style="height:400"/>
+  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" style="height:350"/>
   <br>
   <figcaption style="text-align:center"><i><small>Ivan Karamazov, intelectualul chinuit</i></small></figcaption>
 </figure>
