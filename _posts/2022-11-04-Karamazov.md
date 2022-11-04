@@ -18,7 +18,7 @@ Măestria lui Dostoevsky îți permite să trăiești pentru o vreme viața a ce
 Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în această operă, autorul abordează cele mai profunde întrebări despre viată, moralitate, societate, iubire, familie și religie. Printre multele întrebări se găsesc și începuturi de răspunsuri, pline de frumusețe și înțelepciune.
 
 <figure>
-  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" height=350/>
+  <img src="/assets/img/Ivan_karamazov.jpeg" alt="drawing" height=450/>
   <br>
   <figcaption style="text-align:center">
   <i><small>Ivan Karamazov, intelectualul chinuit</small></i>
@@ -32,7 +32,7 @@ Prin ochii acestor 3 personaje, cât și multe altele ce apar și dispar în ace
 Voi face referință la aceste volume ce pot fi descărcate pentru numele capitolelor și paginile unde le puteți găsi: [Volumul 1](https://101books.club/carte/descarca-feodor-mihailovici-dostoievski-fratii-karamazov-vol-1-pdf) și [Volumul 2](https://101books.club/carte/descarca-feodor-mihailovici-dostoievski-fratii-karamazov-vol-2-pdf). Includ și numele în engleză, eu am citit traducerea de Constance Garnett, care mi s-a părut excelentă.
 
 <figure>
-  <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" height=300/>
+  <img src="/assets/img/Karamazov_inquizitor.jpeg" alt="drawing" height=350/>
   <br>
   <figcaption style="text-align:center">
     <small><i>Ivan îi spune lui Alyosha povestea Marelui Inchizitor</i></small>
