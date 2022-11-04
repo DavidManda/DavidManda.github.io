@@ -39,7 +39,7 @@ Voi face referință la aceste volume ce pot fi descărcate pentru numele capito
   </figcaption>
 </figure>
 
-## Volumul 1
+# Volumul 1
 
 ### Alyosha si Ivan, despre religie și moralitate
 
@@ -52,7 +52,7 @@ Voi face referință la aceste volume ce pot fi descărcate pentru numele capito
 - **Oaspetele de taină. (The mysterious visitor) - pag. 282-293**
 - **III – Din vorbele rostite de stareţul Zosima şi din învăţăturile sale (Conversations and exhortations of Father Zossima) - pag. 293-295**
 
-## Volumul 2
+# Volumul 2
 
 ### Despre copilărie și adolescență în toată frumusețea, cât și durerea ei. Importanța unui mentor. O poveste sfâșietoare.
 
