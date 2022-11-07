@@ -61,4 +61,4 @@ Voi face referință la aceste volume ce pot fi descărcate pentru numele capito
 
 Total: 85 pagini
 
-Recomand să începeți cu Amintiri din anii petrecerii în lume a stareţului Zosima în primăvara vieţii. Duelul. Dacă și 85 pagini vi se pare prea mult pentru început, recomand doar titlurile cu bold din lista de mai sus. Sunt în total 27 de pagini. Lectură plăcută!
+Recomand să începeți cu "Amintiri din anii petrecerii în lume a stareţului Zosima în primăvara vieţii. Duelul." Dacă și cele 85 pagini selecționate vi se pare prea mult pentru început, recomand doar titlurile cu bold din lista de mai sus. Sunt în total 27 de pagini. Lectură plăcută!
