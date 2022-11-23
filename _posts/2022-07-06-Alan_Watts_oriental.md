@@ -3,7 +3,7 @@ layout: post
 title: "Alan Watts - Relevanța Filozofiei Orientale"
 author: "David Manda"
 categories: article
-tags: [philosophy, religion]
+tags: [religion]
 image: Alan-Watts.png
 ---
 
