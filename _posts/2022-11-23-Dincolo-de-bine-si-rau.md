@@ -7,11 +7,12 @@ tags: [article]
 image: Friedrich-Wilhelm-Nietzsche-Author.jpeg
 ---
 
-_"Omul obiectiv care, asemenea pesimistului, nu mai blestemă și nu mai înjură, savantul ideal, este cu siguranță unul dintre cele mai prețioase instrumente existente: el se cuvine însă pus în mâna unuia mai puternic. ... El este însă numai un instrument spunem noi ... nu este un „scop în sine". "_
+_"Omul obiectiv care, asemenea pesimistului, nu mai blestemă și nu mai înjură, savantul ideal, este cu siguranță unul dintre cele mai prețioase instrumente existente: el se cuvine însă pus în mâna unuia mai puternic. ... El este însă numai un instrument spunem noi ... nu este un "scop în sine". "_
+
 Friedrich Nietzsche: Dincolo de bine și rău.
 
 <figure>
-  <img src="/assets/img/Nietzsche1869.jpeg" alt="drawing" height=450/>
+  <img src="/assets/img/Nietzsche1869.jpeg" alt="drawing" height=550/>
 </figure>
 
 Științele m-au atras de când mi-au apărut prima oară în viață. La început a fost matematica, apoi fizica, biologia și în final informatica. Pe cea din urmă am ales să o studiez în continuare la facultate, gândindu-mă că voi continua o carieră în cercetare, voi descoperi lucruri noi și voi face lumea "un loc mai bun". Totuși, pe măsură ce învățam mai multe, mă maturizam și venea vremea să aleg ce parte specifică a informaticii o voi aprofunda pe viitor, devenea tot mai chinuitor gândul că îmi voi petrece o bună parte din viață devenind expert doar într-o arie sau două. Devenea tot mai neclar ce ar fi de folos oamenilor și cum va face alegera mea lumea să fie "un loc mai bun". Ce ne lipsește, cu adevărat, să merite o astfel de investiție? Și cum aș putea face eu această alegere măreață, având 21 de ani, încă dezmeticindu-mă pe lumea asta? Eu nu știu încă ce e bine pentru mine, cum pot să decid ce e bine și pentru alții?
@@ -35,7 +36,7 @@ _"Acestor cercetători le revine sarcina de a face ca tot ce s-a întâmplat și
 El vede filosoful ca fiind omul ce folosește toate aceste informații strânse de savant pentru a crea ceva nou. Pentru a face o decizie, a îndruma oamenii într-o anume direcție. Există astfel de oameni? Eu cred că da. Interpretarea mea pentru acest "filosof" este cât se poate de largă și îi include pe toți acei oameni minunați care își depășesc propriul lor domeniu, își adaugă experiența lor de viață și creează ceva ce noi toți putem folosi în viețile noastre. Astfel de oameni sunt: Gabor Maté, Brené Brown, Jordan Peterson, David Attenborough. Nu trebuie să fii de acord cu tot ce spun ei, și nici eu nu sunt, dar văd în ei această calitate. Văd în ei creatori de idei vaolorase ce se bazează pe edificiul științei, dar îl depășește.
 
 <figure>
-  <img src="/assets/img/Nietzsche.jpeg" alt="drawing" height=450/>
+  <img src="/assets/img/Nietzsche.jpeg" alt="drawing" height=500/>
 </figure>
 
 Mai las aici câteva citate foarte interesante despre această temă, din aceeași carte. Pentru cei mai curioși.
