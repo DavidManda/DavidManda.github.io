@@ -3,7 +3,7 @@ layout: post
 title: "Capitolele din Frații Karamazov pe care toată lumea trebuie să le citească"
 author: "David Manda"
 categories: article
-tags: [religion philosophy]
+tags: [religion, philosophy]
 image: karamazov.jpg
 ---
 
