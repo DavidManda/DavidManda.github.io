@@ -2,8 +2,8 @@
 layout: post
 title: "Nietzsche: Despre omul de știință și filosof"
 author: "David Manda"
-categories: philosophy
-tags: [article]
+categories: article
+tags: [phiolosophy science nietzsche]
 image: Friedrich-Wilhelm-Nietzsche-Author.jpeg
 ---
 
