@@ -11,7 +11,9 @@ Una dintre cele mai mari piedici în calea progresului este întrebarea _"Cât d
 
 Acum 5 ani m-am gândit să plantez un sâmbure de Avocado. Când am realizat totuși că durează câteva luni să încolțească și ani până devine o plantă, am renunțat. Am avut de mai multe ori inițiativa între timp dar de fiecare dată cu același rezultat - _"Durează prea mult"_. De fapt dura câteva zeci de minute, petrecute făcând o activitate plăcută mie. Acum, 5 ani mai târziu, aș fi avut un pom de avocado, nu o poveste cu tâlc. Acest exemplu simplu cred că descrie multe obiceiuri bune ce nu au început niciodată. Ne întrebăm: _"Cât durează să văd progres la sală? Să învăț la pian? Să codez? Să dansez? Să scriu?"_. Câte activități și obiceiuri ce ne-ar fi adus plăcere pe moment și progres pe termen lung au murit la mâna acestei întrebări șirete?
 
-![image](/assets/img/progresul_dans.jpg)
+<figure>
+  <img src="/assets/img/progresul_dans.jpg" alt="drawing" height=450/>
+</figure>
 
 ### De ce?
 
