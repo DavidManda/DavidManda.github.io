@@ -18,7 +18,13 @@ layout: default
       {{ site.author }}
     {% endif %}
     <br>
-    Lectură de 5 minute
+    {% if page.duration %}
+      Lectură de 
+      {{ page.duration }}
+      minute
+    {% else %}
+    {% endif %}
+ 
   </span>
 
   <article>

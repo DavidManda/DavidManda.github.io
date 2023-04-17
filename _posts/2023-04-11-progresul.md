@@ -5,6 +5,7 @@ author: "David Manda"
 categories: article
 tags: [thoughts]
 image: progresul_dans.jpg
+duration: 3
 ---
 
 Una dintre cele mai mari piedici în calea progresului este întrebarea _"Cât durează să văd rezultate?"_ Să exemplific:
