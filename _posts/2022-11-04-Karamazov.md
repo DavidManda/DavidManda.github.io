@@ -5,6 +5,7 @@ author: "David Manda"
 categories: article
 tags: [philosophy]
 image: karamazov.jpg
+duration: 7
 ---
 
 Considerat unul dintre cele mai bune romane ale geniului literar Fyodor Dostoevsky, Frații Karamazov reușește prin intermediul unor personaje profund umane și un stil narativ aproape bizar să aducă o ficțiune în tărâmul realității. M-am tot întrebat de-alungul celor 870 de pagini de ce este această carte atât de faimoasă. De ce mă ține aproape de ea, chiar și prin lungile descrieri ce sunt aproape pictisitoare? Cred că am găsit unul dintre răspunsuri.

@@ -5,6 +5,7 @@ author: "David Manda"
 categories: article
 tags: [religion]
 image: Alan-Watts.png
+duration: 12
 ---
 
 Filozofie, religie și spiritualitate. Aceste trei teme sunt explorate de Alan Watts, unul dintre cei mai fascinanți vorbitori și gânditori ai secolului XX. Am descoperit discursurile lui prin aplicația [Waking Up](https://www.wakingup.com/) și am fost captivat instant. Mereu mi-am dorit să înțeleg mai bine religiile și curentele de gândire ce s-au dezvoltat în exteriorul lumii vestice, în India, China și Japonia în mod special. Alan Watts aprofundează acest subiect, comparând filozofia și religia dezvoltată sub cupola creștină cu cea orientală, într-un mod plin de umor subtil, creativ absolut fascinant. Este unul dintre cei mai talentați vorbitori pe care i-am ascultat și mi-am dorit să pot împartași aceste gânduri ale lui și cu oamenii care nu vorbesc engleză sau nu vor să asculte un discurs de o oră pe acest subiect. Cuvintele ce urmează sunt o traducere realizată de către mine, bazată pe discursul _“Relevance of Oriental Philosophy”_ al lui Alan Watts, ce poate fi ascultat [aici](https://www.organism.earth/library/document/relevance-of-oriental-philosophy). Recomand mult să il ascultați. Am încercat aici să surprind ideile principale, dar și să păstrez esența discursului. A se citi cu umor și curiozitate:

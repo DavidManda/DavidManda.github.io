@@ -5,6 +5,7 @@ author: "David Manda"
 categories: article
 tags: [philosophy]
 image: Friedrich-Wilhelm-Nietzsche-Author.jpeg
+duration: 5
 ---
 
 _"Omul obiectiv care, asemenea pesimistului, nu mai blestemă și nu mai înjură, savantul ideal, este cu siguranță unul dintre cele mai prețioase instrumente existente: el se cuvine însă pus în mâna unuia mai puternic. ... El este însă numai un instrument spunem noi ... nu este un "scop în sine"."_ - <i><small>Friedrich Nietzsche: Dincolo de bine și rău.</small></i>
