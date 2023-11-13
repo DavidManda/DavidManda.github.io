@@ -8,10 +8,10 @@ image: Movitalis.jpeg
 duration: 2
 ---
 
-Preia controlul asupra sănptății tale prin fitness și trăiește o viață mai lungă, mai plină de energie și mai activă. Folosind cele mai noi studii stiințifice această aplicație îți oferă o structură de antrenament extrem de simplă și eficientă pentru a dezvolta cele mai importante aspecte ale sănătății tale fitness - apoi te ajută să o implementezi prin monitorizare și testare automată.
+Preia controlul asupra sănătății tale prin fitness și trăiește o viață mai lungă, mai plină de energie și mai activă. Folosind cele mai noi studii stiințifice această aplicație îți oferă o structură de antrenament extrem de simplă și eficientă pentru a dezvolta cele mai importante aspecte ale sănătății tale fitness - apoi te ajută să o implementezi prin monitorizare și testare automată.
 
 <figure>
-  <img src="/assets/img/Movitalis.jpeg" alt="drawing" height=250/>
+  <img src="/assets/img/Progres 1242x2208.png" alt="drawing" height=250/>
 </figure>
 
 Movitalis nu este ca restul aplicaților care te copleșesc cu informații și necesită timp pentru a completa tot felul de teste, a loga repetări, greutăți și obiceiuri. Simplitatea stă la baza aplicației și începe să fie folositoare din prima clipă în care este descărcată. Îți analizează automat antrenamentele tale existente, le organizează și te ajută să înțelegi ar trebui să faci în continuare - fără ca tu să introduci manual vreo informație!
@@ -19,6 +19,10 @@ Movitalis nu este ca restul aplicaților care te copleșesc cu informații și n
 Descarcă acum și bucură-te de o structură clară pentru activitatea ta, o analiză automată a sănătății tale fitness, teste esențiale ale forței și mobilității tale, și multe altele. Simplă în abordare și profundă în conținut, aplicația te va ajuta să decizi cum să arate următorul antrenament dintr-o privire. Iar dacă dorești să aprofundezi informațiile din spatele programului și a testelor, explicații despre cum ar trebui să arate antrenamentele și de ce, toate sunt gata pentru tine să le înțelegi.
 
 MULT MAI MULT DECÂT UN TRACKER AL ACTIVITĂȚII & UN PROGRAM DE ANTRENAMENT
+
+<figure>
+  <img src="/assets/img/Cardio 1290x2796.png" alt="drawing" height=250/>
+</figure>
 
 Este ca și cum ai avea un antrenor fitness și o echipă de oameni de știință în buzunarul tău, gata să îți spună ce să faci și să îți explice de ce.
 
