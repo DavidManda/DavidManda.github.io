@@ -13,7 +13,7 @@ Vreau să vă vorbesc astăzi despre cum din rușine, ne cerem scuze pentru un r
 Apariția lui Babasha pe scena Coldplay a trezit o discuție națională despre rasism. Tânărul artist a fost huiduit în timp ce interpreta maneaua sa “Păi naa”. Mai tot internetul a sărit în apărarea sa, cu cele mai bune intenții: empatie pentru tânărul artist și denunțare a rasismului. Deci unde e problema?
 
 <figure>
-  <img src="/assets/img/babasha-coldplay.webp" alt="drawing" height=500/>
+  <img src="/assets/img/babasha-coldplay.webp" alt="drawing" height=300/>
 </figure>
 
 Problema este că noi romănii suntem prea dornici să ne învinovățim: “Românii s-au făcut de rușine în fața trupei Coldplay, îmi e rușine să fiu român”. Această rușine este o trăsătură națională, iar în acest moment ne face să ne însușim o problemă pe care NU o avem.
