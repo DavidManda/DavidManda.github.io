@@ -16,7 +16,7 @@ Apariția lui Babasha pe scena Coldplay a trezit o discuție națională despre 
   <img src="/assets/img/babasha-coldplay.webp" alt="drawing" height=300/>
 </figure>
 
-Problema este că noi romănii suntem prea dornici să ne învinovățim: “Românii s-au făcut de rușine în fața trupei Coldplay, îmi e rușine să fiu român”. Această rușine este o trăsătură națională, iar în acest moment ne face să ne însușim o problemă pe care NU o avem.
+Problema este că noi romănii suntem prea dornici să ne învinovățim: _“Românii s-au făcut de rușine în fața trupei Coldplay, îmi e rușine să fiu român”_. Această rușine este o trăsătură națională, iar în acest moment ne face să ne însușim o problemă pe care NU o avem.
 
 Narativul acestor zile este că manelele sunt respinse de români datorită rasismului împotriva romilor. Oare asta este realitatea? Nu. Manelele sunt probabil punctul cultural de convergență al romănilor și romilor. Sunt extrem de apreciate și ascultate. Până la urmă, Babasha a fost selectat pentru că era în trending...nu? Rasismul este o problemă reală în românia. Dar manelele NU sunt frontiera acestei probleme. O acceptare mai largă a manelelor nu va rezolva problema rasismului în niciun fel.
 
