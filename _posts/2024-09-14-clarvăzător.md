@@ -5,7 +5,7 @@ author: "David Manda"
 categories: article
 tags: [sport]
 image: ViaMaratonCool.jpg
-duration: 2
+duration: 5
 ---
 
 Abilitatea de a prezice viitorul pare să aparțină fantasticului și ezotericului. De fapt, este una din componentele principale ale inteligenței și măiestriei, în orice domeniu.
