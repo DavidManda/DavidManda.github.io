@@ -10,7 +10,7 @@ duration: 5
 
 Abilitatea de a prezice viitorul pare să aparțină fantasticului și ezotericului. De fapt, este una din componentele principale ale inteligenței și măiestriei, în orice domeniu.
 
-Învățăm să prezicem viitorul din copilărie. Începem cu lucrurile de bază: ne va fi foame, ne va fi sete, vom fi mai încântați cu cealaltă jucărie în mână. Chiar și abilitatea de a percepe imagini depinde de capacitatea creierului nostru de a genera un model al stimulilor ce urmează să îi primească. Unele iluzii optice sabotează fix acest model.
+Învățăm să prezicem viitorul încă din copilărie. Începem cu lucrurile de bază: ne va fi foame, ne va fi sete, vom fi mai încântați cu cealaltă jucărie în mână. Chiar și abilitatea de a percepe imagini depinde de capacitatea creierului nostru de a genera un model al stimulilor ce urmează să îi primească. Unele iluzii optice sabotează fix acest model.
 
 <figure>
   <img src="/assets/img/donut-room_full_990.jpg" alt="drawing" height=300/>
