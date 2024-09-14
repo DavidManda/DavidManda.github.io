@@ -12,6 +12,10 @@ Abilitatea de a prezice viitorul pare să aparțină fantasticului și ezotericu
 
 Învățăm să prezicem viitorul din copilărie. Începem cu lucrurile de bază: ne va fi foame, ne va fi sete, vom fi mai încântați cu cealaltă jucărie în mână. Chiar și abilitatea de a percepe imagini depinde de capacitatea creierului nostru de a genera un model al stimulilor ce urmează să îi primească. Unele iluzii optice sabotează fix acest model.
 
+<figure>
+  <img src="assets/img/donut-room_full_990.jpg" alt="drawing" height=300/>
+</figure>
+
 De acolo progresăm la lucruri tot mai complexe. La ce facultate mă voi simți mai bine? Ce ar fi bine să știu pentru examen? Va crește prețul acestei acțiuni?
 
 Cu cât putem răspunde mai precis acestor întrebări, cu atât vom lua decizii mai bune și ne vom bucura de performanțe mai mari. Poate ți se pare un mod straniu de a privi procesul de învățare. Și eu l-am descoperit recent, în mijlocul pregătirilor pentru primul meu maraton montan.
