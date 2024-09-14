@@ -22,7 +22,7 @@ Cu cât putem răspunde mai precis acestor întrebări, cu atât vom lua decizii
 
 # Începutul
 
-Povestea începe cu o lună înainte de start. Doar ce alergasem 33km prin Rarău, la Bucovina Ultra Rocks. Nu mă pregătisem bine pentru această cursă și am primit ultima calibrare puternică a sistemului meu de predicție.
+Povestea începe cu o lună înainte de start. Doar ce alergasem 33km prin Rarău, la Bucovina Ultra Rocks. Nu mă pregătisem bine pentru această cursă și am avut un rezultat slab. Imediat după fericirea de la finish am primit ultima calibrare puternică a sistemului meu de predicție.
 
 <figure>
   <img src="/assets/img/BUR finish.jpg" alt="drawing" height=300/>
