@@ -50,7 +50,7 @@ Am pornit simțindu-mă fantastic. Alergam controlat pe drept și la vale, merge
 
 Cursa a continuat tot așa până la km 20, unde am ajuns în 2h15m. Eram în grafic. De acolo urma o urcare lungă. Am decis să nu îmi umplu ambele bidoanele. A fost o greșeală.
 
-Nu am realizat că următorul punct de alimentare va fi la peste mai mult de o oră și că va fi cea mai grea și călduroasă parte din traseu. Alimentația și hidratarea nu le exersasem, deci nu am știut să le prezic corect. Le-am lăsat norocului, iar el nu a fost cu mine. A fost primul punct când am dat de greu și am început să pierd timp. Mă chinuiam să alerg, dar totuși o făceam.
+Nu am realizat că următorul punct de alimentare va fi peste mai mult de o oră și că va fi cea mai grea și călduroasă parte din traseu. Alimentația și hidratarea nu le exersasem, deci nu am știut să le prezic corect. Le-am lăsat norocului, iar el nu a fost cu mine. A fost primul punct când am dat de greu și am început să pierd timp. Mă chinuiam să alerg, dar totuși o făceam.
 
 <figure>
   <img src="/assets/img/ViaMaratonPajiste.jpg" alt="drawing" height=400/>
