@@ -20,7 +20,7 @@ De acolo progresăm la lucruri tot mai complexe. "La ce facultate mă voi simți
 
 Cu cât putem răspunde mai precis acestor întrebări, cu atât vom lua decizii mai bune și ne vom bucura de performanțe mai mari. Poate ți se pare un mod straniu de a privi procesul de învățare. Și eu l-am descoperit recent, în mijlocul pregătirilor pentru primul meu maraton montan.
 
-# Începutul
+# Lecția
 
 Povestea începe cu o lună înainte de start. Doar ce alergasem 33km prin Rarău, la Bucovina Ultra Rocks. Nu mă pregătisem bine pentru această cursă și am avut un rezultat slab. Imediat după fericirea de la finish am primit ultima calibrare puternică a sistemului meu de predicție.
 
