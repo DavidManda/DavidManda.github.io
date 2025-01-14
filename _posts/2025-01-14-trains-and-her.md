@@ -4,8 +4,8 @@ title: "I really like trains and this girl"
 author: "David Manda"
 categories: article
 tags: [thoughts]
-image: Eze_me.HEIC
-duration: 7
+image: Eze_viaduct.HEIC
+duration: 10
 ---
 
 The train was leaving in two minutes, yet she was nowhere to be seen. I kept taking small steps forward hoping to see her, then back towards the train in an attempt to keep it from leaving. Was she gonna show up? It was the third time I was seeing this girl and we had planned a short trip together. We were supposed to be leaving for Eze where Chemin de Nietzsche was waiting for us.
